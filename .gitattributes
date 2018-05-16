@@ -1,0 +1,8 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# Force LF on files that need it
+*.js text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
