@@ -31,6 +31,10 @@
     "preact-compat": "^3.17.0",
     "preact-router": "^2.5.7"
   },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
   "jest": {
     "verbose": true,
     "setupFiles": [
